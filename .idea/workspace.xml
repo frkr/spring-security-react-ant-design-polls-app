@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea1f66d1-a180-4ac7-a312-86f2dc3add06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysql.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polling-app-client/public/electron.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polling-app-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/polling-app-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polling-app-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/polling-app-client/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/polling-app-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="polling_app: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-769594359">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PollsApplication" value="1" />
+          <entry key="SpringLocalModels/module=polls" value="1" />
+          <entry key="bat" value="3" />
+          <entry key="character_sets" value="1" />
+          <entry key="choices" value="1" />
+          <entry key="class" value="3" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="3" />
+          <entry key="java" value="10" />
+          <entry key="js" value="32" />
+          <entry key="json" value="11" />
+          <entry key="lock" value="1" />
+          <entry key="md" value="2" />
+          <entry key="png" value="2" />
+          <entry key="polls" value="1" />
+          <entry key="properties" value="7" />
+          <entry key="roles" value="3" />
+          <entry key="sql" value="12" />
+          <entry key="svg" value="2" />
+          <entry key="ts" value="1" />
+          <entry key="user_roles" value="1" />
+          <entry key="users" value="2" />
+          <entry key="votes" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="Database Element" value="10" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="10" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="32" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="7" />
+          <entry key="SQL" value="7" />
+          <entry key="SVG" value="2" />
+          <entry key="Scratch" value="5" />
+          <entry key="TypeScript" value="1" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="3" />
+          <entry key="yarn.lock" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="7" />
+          <entry key="gitignore" value="22" />
+          <entry key="html" value="2" />
+          <entry key="js" value="1" />
+          <entry key="json" value="37" />
+          <entry key="properties" value="11" />
+          <entry key="sql" value="46" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="37" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Properties" value="11" />
+          <entry key="SQL" value="46" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://SpringLocalModels/module=polls">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>SpringLocalModels</ID>
+              <OriginalElement>module=polls</OriginalElement>
+              <nodes>
+                <node x="0.0" y="180.0">module=polls</node>
+                <node x="143.0" y="150.0">fileset=polls/PollsApplication</node>
+                <node x="347.0" y="180.0">com.example.polls.PollsApplication</node>
+                <node x="559.5" y="240.0">com.example.polls.config.SecurityConfig</node>
+                <node x="762.0" y="270.0">org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity</node>
+                <node x="788.0" y="210.0">org.springframework.security.config.annotation.web.configuration.EnableWebSecurity</node>
+                <node x="570.5" y="180.0">org.springframework.boot.autoconfigure.domain.EntityScan</node>
+                <node x="537.0" y="120.0">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+                <node x="557.5" y="60.0">com.example.polls.config.AuditingConfig</node>
+                <node x="789.5" y="60.0">org.springframework.data.jpa.repository.config.EnableJpaAuditing</node>
+                <node x="557.0" y="0.0">com.example.polls.config.WebMvcConfig</node>
+                <node x="129.0" y="210.0">fileset=polls/PollsApplication MVC</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.SecurityConfig">
+                  <point x="55.0" y="2.857142857142861" />
+                  <point x="537.0" y="243.33333333333334" />
+                  <point x="-50.0" y="-6.666666666666657" />
+                </edge>
+                <edge source="com.example.polls.config.SecurityConfig" target="org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity">
+                  <point x="50.0" y="5.0" />
+                  <point x="682.0" y="255.0" />
+                  <point x="-89.0" y="-0.0" />
+                </edge>
+                <edge source="fileset=polls/PollsApplication MVC" target="com.example.polls.PollsApplication">
+                  <point x="69.0" y="-0.0" />
+                  <point x="-55.0" y="5.0" />
+                </edge>
+                <edge source="com.example.polls.config.SecurityConfig" target="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity">
+                  <point x="50.0" y="-5.0" />
+                  <point x="682.0" y="245.0" />
+                  <point x="762.0" y="220.0" />
+                  <point x="-63.0" y="-0.0" />
+                </edge>
+                <edge source="com.example.polls.config.AuditingConfig" target="org.springframework.data.jpa.repository.config.EnableJpaAuditing">
+                  <point x="52.0" y="-0.0" />
+                  <point x="-61.5" y="-0.0" />
+                </edge>
+                <edge source="module=polls" target="fileset=polls/PollsApplication MVC">
+                  <point x="24.5" y="5.0" />
+                  <point x="-69.0" y="-0.0" />
+                </edge>
+                <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.WebMvcConfig">
+                  <point x="55.0" y="-8.571428571428584" />
+                  <point x="537.0" y="10.0" />
+                  <point x="-52.5" y="-0.0" />
+                </edge>
+                <edge source="com.example.polls.PollsApplication" target="org.springframework.boot.autoconfigure.SpringBootApplication">
+                  <point x="55.0" y="-2.857142857142861" />
+                  <point x="-72.5" y="-0.0" />
+                </edge>
+                <edge source="fileset=polls/PollsApplication" target="com.example.polls.PollsApplication">
+                  <point x="55.0" y="-0.0" />
+                  <point x="267.0" y="160.0" />
+                  <point x="-55.0" y="-5.0" />
+                </edge>
+                <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.AuditingConfig">
+                  <point x="55.0" y="-5.714285714285722" />
+                  <point x="537.0" y="70.0" />
+                  <point x="-52.0" y="-0.0" />
+                </edge>
+                <edge source="module=polls" target="fileset=polls/PollsApplication">
+                  <point x="24.5" y="-5.0" />
+                  <point x="129.0" y="160.0" />
+                  <point x="-55.0" y="-0.0" />
+                </edge>
+                <edge source="com.example.polls.PollsApplication" target="org.springframework.boot.autoconfigure.domain.EntityScan">
+                  <point x="55.0" y="-0.0" />
+                  <point x="-39.0" y="-0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.93125" x="470.0" y="283.55704697986573" />
+              <SelectedNodes>
+                <node>com.example.polls.config.SecurityConfig</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Show filesets as groups</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Component</find>
+      <find>preventd</find>
+      <find>setState</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/polling-app-server/pom.xml" />
+        <option value="$PROJECT_DIR$/polling-app-server/src/main/resources/application.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/console_1.sql" />
+        <option value="$PROJECT_DIR$/polling-app-server/src/main/resources/default-roles.sql" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/polling-app-client/src/app/App.js" />
+        <option value="$PROJECT_DIR$/polling-app-client/public/electron.js" />
+        <option value="$PROJECT_DIR$/polling-app-client/public/index.html" />
+        <option value="$PROJECT_DIR$/polling-app-client/package.json" />
+        <option value="$PROJECT_DIR$/mysql.bat" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/polling-app-client/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/polling-app-client/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/polling-app-client/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-security-react-ant-design-polls-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-security-react-ant-design-polls-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../porto/hsm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\w\spring-security-react-ant-design-polls-app\polling-app-client\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PollsApplication">
+    <configuration name="PollsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="polls" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.polls.PollsApplication" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="HIDE_BANNER" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="react-start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/polling-app-client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="react-start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/polling-app-client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PollsApplication" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.react-start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.react-start" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea1f66d1-a180-4ac7-a312-86f2dc3add06" name="Default Changelist" comment="" />
+      <created>1536346751474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536346751474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="npm" order="1" sideWeight="0.45314685" side_tool="true" visible="true" weight="0.25503355" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.5468531" visible="true" weight="0.25503355" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Database Console" order="2" sideWeight="0.4986577" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4885906" weight="0.6685315" />
+      <window_info anchor="bottom" id="Docker" order="4" sideWeight="0.5114094" side_tool="true" weight="0.6685315" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.52080536" side_tool="true" weight="0.62237763" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32977098" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49932885" weight="0.65314686" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.47919464" weight="0.62237763" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.5114094" side_tool="true" weight="0.6685315" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.49923664" visible="true" weight="0.14496644" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="7" sideWeight="0.50076336" side_tool="true" weight="0.14552239" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/polls" />
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/roles" />
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/user_roles" />
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/votes" />
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/users" />
+    <entry file="das://ee84f0c3-60cb-43a4-9b0b-acb4c6221e5f/schema/polling_app/table/choices" />
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/service/PollService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/poll.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/common/AppHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/resources/db/migration/V2__default_roles.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/resources/db/migration/V1__schema.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/common/LoadingIndicator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="266" column="14" selection-start-line="266" selection-start-column="14" selection-end-line="266" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/poll/NewPoll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="183" column="31" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/common/PrivateRoute.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/util/APIUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/poll/PollList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/user/login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/src/user/profile/Profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/public/electron.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-client/public/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/mappedClass=com.example.polls.PollsApplication">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>mappedClass=com.example.polls.PollsApplication</OriginalElement>
+          <nodes>
+            <node x="" y="">module=polls;bean_class=com.example.polls.PollsApplication;bean_name=pollsApplication</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.domain.EntityScanPackages.Registrar;bean_name=registrar</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.security.JwtAuthenticationEntryPoint;bean_name=jwtAuthenticationEntryPoint</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.security.JwtTokenProvider;bean_name=jwtTokenProvider</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.controller.AuthController;bean_name=authController</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.repository.UserRepository;bean_name=userRepository</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.repository.RoleRepository;bean_name=roleRepository</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.crypto.password.PasswordEncoder;bean_name=passwordEncoder</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.authentication.AuthenticationManager;bean_name=org.springframework.security.authenticationManager</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.controller.PollController;bean_name=pollController</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.repository.PollRepository;bean_name=pollRepository</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.repository.VoteRepository;bean_name=voteRepository</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.service.PollService;bean_name=pollService</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.controller.UserController;bean_name=userController</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.security.CustomUserDetailsService;bean_name=customUserDetailsService</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.config.SecurityConfig;bean_name=securityConfig</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.context.DelegatingApplicationListener;bean_name=delegatingApplicationListener</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.access.expression.SecurityExpressionHandler;bean_name=webSecurityExpressionHandler</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.Filter;bean_name=springSecurityFilterChain</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.web.access.WebInvocationPrivilegeEvaluator;bean_name=privilegeEvaluator</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.web.configuration.AutowiredWebSecurityConfigurersIgnoreParents;bean_name=autowiredWebSecurityConfigurersIgnoreParents</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.web.configuration.SpringWebMvcImportSelector;bean_name=springWebMvcImportSelector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.method.configuration.GlobalMethodSecuritySelector;bean_name=globalMethodSecuritySelector</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.security.JwtAuthenticationFilter;bean_name=jwtAuthenticationFilter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.config.AuditingConfig;bean_name=auditingConfig</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.jpa.repository.config.JpaAuditingRegistrar;bean_name=jpaAuditingRegistrar</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.domain.AuditorAware;bean_name=auditorProvider</node>
+            <node x="" y="">module=polls;bean_class=com.example.polls.config.WebMvcConfig;bean_name=webMvcConfig</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration;bean_name=objectPostProcessorConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;bean_name=authenticationManagerBuilder</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.authentication.configuration.GlobalAuthenticationConfigurerAdapter;bean_name=enableGlobalAuthenticationAutowiredConfigurer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer;bean_name=initializeUserDetailsBeanManagerConfigurer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.config.annotation.authentication.configuration.InitializeAuthenticationProviderBeanManagerConfigurer;bean_name=initializeAuthenticationProviderBeanManagerConfigurer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;bean_name=jacksonObjectMapperBuilder</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityFilterAutoConfiguration;bean_name=securityFilterAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.servlet.DelegatingFilterProxyRegistrationBean;bean_name=securityFilterChainRegistration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=spring.security-org.springframework.boot.autoconfigure.security.SecurityProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector;bean_name=enableConfigurationPropertiesImportSelector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration;bean_name=jacksonAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.jackson.JsonComponentModule;bean_name=jsonComponentModule</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration;bean_name=jacksonObjectMapperConfiguration</node>
+            <node x="" y="">module=polls;bean_class=com.fasterxml.jackson.databind.ObjectMapper;bean_name=jacksonObjectMapper</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.TransactionTemplateConfiguration;bean_name=transactionTemplateConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.transaction.support.TransactionTemplate;bean_name=transactionTemplate</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerJpaDependencyConfiguration;bean_name=cacheManagerJpaDependencyConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration;bean_name=reactiveSecurityAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.NamedParameterJdbcTemplateConfiguration;bean_name=namedParameterJdbcTemplateConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.JdbcTemplateConfiguration;bean_name=jdbcTemplateConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.jdbc.core.JdbcTemplate;bean_name=jdbcTemplate</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;bean_name=namedParameterJdbcTemplate</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration;bean_name=dataSourceTransactionManagerAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;bean_name=spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.MultipartConfigElement;bean_name=multipartConfigElement</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.multipart.support.StandardServletMultipartResolver;bean_name=multipartResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.MultipartProperties;bean_name=spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.handler.SimpleUrlHandlerMapping;bean_name=faviconHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;bean_name=faviconRequestHandler</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheConfigurationImportSelector;bean_name=cacheConfigurationImportSelector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers;bean_name=cacheManagerCustomizers</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidator;bean_name=cacheAutoConfigurationValidator</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.cache.CacheProperties;bean_name=spring.cache-org.springframework.boot.autoconfigure.cache.CacheProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration;bean_name=servletWebServerFactoryAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration.BeanPostProcessorsRegistrar;bean_name=beanPostProcessorsRegistrar</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration.EmbeddedTomcat;bean_name=embeddedTomcat</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;bean_name=tomcatServletWebServerFactory</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryCustomizer;bean_name=servletWebServerFactoryCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.TomcatServletWebServerFactoryCustomizer;bean_name=tomcatServletWebServerFactoryCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=server-org.springframework.boot.autoconfigure.web.ServerProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration;bean_name=dispatcherServletAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration;bean_name=jtaAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JndiJtaConfiguration;bean_name=jndiJtaConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.transaction.jta.JtaTransactionManager;bean_name=transactionManager</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JtaProperties;bean_name=spring.jta-org.springframework.boot.autoconfigure.transaction.jta.JtaProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.ParameterNamesModuleConfiguration;bean_name=parameterNamesModuleConfiguration</node>
+            <node x="" y="">module=polls;bean_class=com.fasterxml.jackson.module.paramnames.ParameterNamesModule;bean_name=parameterNamesModule</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration;bean_name=persistenceExceptionTranslationAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor;bean_name=persistenceExceptionTranslationPostProcessor</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration;bean_name=jackson2ObjectMapperBuilderCustomizerConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration.StandardJackson2ObjectMapperBuilderCustomizer;bean_name=standardJacksonObjectMapperBuilderCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonProperties;bean_name=spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;bean_name=restTemplateAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.client.RestTemplateBuilder;bean_name=restTemplateBuilder</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletRegistrationConfiguration;bean_name=dispatcherServletRegistrationConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.DispatcherServlet;bean_name=dispatcherServlet</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.multipart.MultipartResolver;bean_name=multipartResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletPathProvider;bean_name=mainDispatcherServletPathProvider</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.servlet.ServletRegistrationBean;bean_name=dispatcherServletRegistration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties;bean_name=spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration;bean_name=enableTransactionManagementConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionManagerCustomizers;bean_name=platformTransactionManagerCustomizers</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionProperties;bean_name=spring.transaction-org.springframework.boot.autoconfigure.transaction.TransactionProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration;bean_name=projectInfoAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.info.GitProperties;bean_name=gitProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.info.BuildProperties;bean_name=buildProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.info.ProjectInfoProperties;bean_name=spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration;bean_name=hibernateJpaConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.transaction.PlatformTransactionManager;bean_name=transactionManager</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.orm.jpa.JpaVendorAdapter;bean_name=jpaVendorAdapter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder;bean_name=entityManagerFactoryBuilder</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;bean_name=entityManagerFactory</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.orm.jpa.JpaProperties;bean_name=spring.jpa-org.springframework.boot.autoconfigure.orm.jpa.JpaProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration;bean_name=validationAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.validation.PrimaryDefaultValidatorPostProcessor;bean_name=primaryDefaultValidatorPostProcessor</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;bean_name=defaultValidator</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.validation.beanvalidation.MethodValidationPostProcessor;bean_name=methodValidationPostProcessor</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.MinValidatorForMonetaryAmount;bean_name=minValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMinValidatorForMonetaryAmount;bean_name=decimalMinValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeValidatorForMonetaryAmount;bean_name=negativeValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeOrZeroValidatorForMonetaryAmount;bean_name=negativeOrZeroValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.AbstractEmailValidator;bean_name=abstractEmailValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount;bean_name=decimalMaxValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.CurrencyValidatorForMonetaryAmount;bean_name=currencyValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NotBlankValidator;bean_name=notBlankValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveValidatorForMonetaryAmount;bean_name=positiveValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.EmailValidator;bean_name=emailValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.MaxValidatorForMonetaryAmount;bean_name=maxValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DecimalMinValidatorForCharSequence;bean_name=decimalMinValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator;bean_name=patternValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NotNullValidator;bean_name=notNullValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForShort;bean_name=negativeValidatorForShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.MinValidatorForCharSequence;bean_name=minValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.AssertFalseValidator;bean_name=assertFalseValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForNumber;bean_name=negativeOrZeroValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.MaxValidatorForCharSequence;bean_name=maxValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForShort;bean_name=negativeOrZeroValidatorForShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DecimalMaxValidatorForCharSequence;bean_name=decimalMaxValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForInteger;bean_name=positiveOrZeroValidatorForInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForCharSequence;bean_name=digitsValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForLong;bean_name=positiveOrZeroValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForDouble;bean_name=negativeValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForNumber;bean_name=digitsValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NullValidator;bean_name=nullValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForDouble;bean_name=negativeOrZeroValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigInteger;bean_name=negativeOrZeroValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForDouble;bean_name=positiveValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigDecimal;bean_name=negativeOrZeroValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForInteger;bean_name=negativeValidatorForInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.AssertTrueValidator;bean_name=assertTrueValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForFloat;bean_name=negativeValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigDecimal;bean_name=positiveOrZeroValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfByte;bean_name=sizeValidatorForArraysOfByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForByte;bean_name=negativeValidatorForByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForMap;bean_name=sizeValidatorForMap</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForByte;bean_name=positiveOrZeroValidatorForByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForLong;bean_name=positiveValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArray;bean_name=sizeValidatorForArray</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForNumber;bean_name=positiveValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCharSequence;bean_name=sizeValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForDouble;bean_name=positiveOrZeroValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfBoolean;bean_name=sizeValidatorForArraysOfBoolean</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForLong;bean_name=negativeOrZeroValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfShort;bean_name=sizeValidatorForArraysOfShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForFloat;bean_name=positiveOrZeroValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForShort;bean_name=positiveValidatorForShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCollection;bean_name=sizeValidatorForCollection</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForInteger;bean_name=negativeOrZeroValidatorForInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfChar;bean_name=sizeValidatorForArraysOfChar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfFloat;bean_name=sizeValidatorForArraysOfFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForLong;bean_name=negativeValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfDouble;bean_name=sizeValidatorForArraysOfDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigInteger;bean_name=positiveOrZeroValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfLong;bean_name=sizeValidatorForArraysOfLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForByte;bean_name=negativeOrZeroValidatorForByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfInt;bean_name=sizeValidatorForArraysOfInt</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForNumber;bean_name=negativeValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigDecimal;bean_name=positiveValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigInteger;bean_name=negativeValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForFloat;bean_name=positiveValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForInteger;bean_name=positiveValidatorForInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForFloat;bean_name=negativeOrZeroValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForNumber;bean_name=positiveOrZeroValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigDecimal;bean_name=negativeValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDate;bean_name=pastValidatorForLocalDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForByte;bean_name=positiveValidatorForByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDateTime;bean_name=pastValidatorForLocalDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForJapaneseDate;bean_name=pastValidatorForJapaneseDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigInteger;bean_name=positiveValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForShort;bean_name=positiveOrZeroValidatorForShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadableInstant;bean_name=pastValidatorForReadableInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForCalendar;bean_name=pastValidatorForCalendar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForThaiBuddhistDate;bean_name=pastValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYearMonth;bean_name=pastValidatorForYearMonth</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForHijrahDate;bean_name=pastValidatorForHijrahDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForDate;bean_name=pastValidatorForDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYear;bean_name=pastValidatorForYear</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadablePartial;bean_name=pastValidatorForReadablePartial</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetTime;bean_name=pastValidatorForOffsetTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMonthDay;bean_name=pastValidatorForMonthDay</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalTime;bean_name=pastValidatorForLocalTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMinguoDate;bean_name=pastValidatorForMinguoDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetDateTime;bean_name=pastValidatorForOffsetDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForZonedDateTime;bean_name=pastValidatorForZonedDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForInstant;bean_name=pastValidatorForInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForThaiBuddhistDate;bean_name=futureValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForNumber;bean_name=minValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDateTime;bean_name=futureValidatorForLocalDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForCalendar;bean_name=futureValidatorForCalendar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForZonedDateTime;bean_name=futureValidatorForZonedDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMonthDay;bean_name=futureValidatorForMonthDay</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetTime;bean_name=futureValidatorForOffsetTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetDateTime;bean_name=futureValidatorForOffsetDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForJapaneseDate;bean_name=futureValidatorForJapaneseDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalTime;bean_name=futureValidatorForLocalTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadableInstant;bean_name=futureValidatorForReadableInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMinguoDate;bean_name=futureValidatorForMinguoDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYearMonth;bean_name=futureValidatorForYearMonth</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDate;bean_name=futureValidatorForLocalDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForInstant;bean_name=futureValidatorForInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForHijrahDate;bean_name=futureValidatorForHijrahDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadablePartial;bean_name=futureValidatorForReadablePartial</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForDate;bean_name=futureValidatorForDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYear;bean_name=futureValidatorForYear</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForCalendar;bean_name=pastOrPresentValidatorForCalendar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYearMonth;bean_name=pastOrPresentValidatorForYearMonth</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDate;bean_name=pastOrPresentValidatorForLocalDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadableInstant;bean_name=pastOrPresentValidatorForReadableInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMonthDay;bean_name=pastOrPresentValidatorForMonthDay</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForHijrahDate;bean_name=pastOrPresentValidatorForHijrahDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalTime;bean_name=pastOrPresentValidatorForLocalTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetDateTime;bean_name=pastOrPresentValidatorForOffsetDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.constraintvalidators.RegexpURLValidator;bean_name=regexpURLValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.engine.constraintvalidation.LambdaBasedValidatorDescriptor.LambdaExecutor;bean_name=lambdaExecutor</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigDecimal;bean_name=maxValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForLong;bean_name=maxValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForDouble;bean_name=minValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigInteger;bean_name=minValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForNumber;bean_name=maxValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForDouble;bean_name=maxValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigDecimal;bean_name=minValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForFloat;bean_name=maxValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigInteger;bean_name=maxValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForLong;bean_name=minValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForFloat;bean_name=minValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigInteger;bean_name=decimalMinValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForNumber;bean_name=decimalMinValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigDecimal;bean_name=decimalMinValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForDouble;bean_name=decimalMinValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigInteger;bean_name=decimalMaxValidatorForBigInteger</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForDouble;bean_name=decimalMaxValidatorForDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForFloat;bean_name=decimalMinValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForLong;bean_name=decimalMinValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForFloat;bean_name=decimalMaxValidatorForFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigDecimal;bean_name=decimalMaxValidatorForBigDecimal</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForNumber;bean_name=decimalMaxValidatorForNumber</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForLong;bean_name=decimalMaxValidatorForLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfChar;bean_name=notEmptyValidatorForArraysOfChar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfFloat;bean_name=notEmptyValidatorForArraysOfFloat</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCharSequence;bean_name=notEmptyValidatorForCharSequence</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfLong;bean_name=notEmptyValidatorForArraysOfLong</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCollection;bean_name=notEmptyValidatorForCollection</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfShort;bean_name=notEmptyValidatorForArraysOfShort</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfInt;bean_name=notEmptyValidatorForArraysOfInt</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfBoolean;bean_name=notEmptyValidatorForArraysOfBoolean</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArray;bean_name=notEmptyValidatorForArray</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfDouble;bean_name=notEmptyValidatorForArraysOfDouble</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForMap;bean_name=notEmptyValidatorForMap</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfByte;bean_name=notEmptyValidatorForArraysOfByte</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.EmailValidator;bean_name=emailValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.EANValidator;bean_name=EANValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ScriptAssertValidator;bean_name=scriptAssertValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.URLValidator;bean_name=URLValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.SafeHtmlValidator;bean_name=safeHtmlValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.Mod11CheckValidator;bean_name=mod11CheckValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.Mod10CheckValidator;bean_name=mod10CheckValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.LuhnCheckValidator;bean_name=luhnCheckValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.NotBlankValidator;bean_name=notBlankValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ParameterScriptAssertValidator;bean_name=parameterScriptAssertValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.CodePointLengthValidator;bean_name=codePointLengthValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.UniqueElementsValidator;bean_name=uniqueElementsValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.LengthValidator;bean_name=lengthValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ModCheckValidator;bean_name=modCheckValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ISBNValidator;bean_name=ISBNValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.br.CNPJValidator;bean_name=CNPJValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.br.CPFValidator;bean_name=CPFValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetTime;bean_name=pastOrPresentValidatorForOffsetTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForZonedDateTime;bean_name=pastOrPresentValidatorForZonedDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForThaiBuddhistDate;bean_name=pastOrPresentValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadablePartial;bean_name=pastOrPresentValidatorForReadablePartial</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForInstant;bean_name=pastOrPresentValidatorForInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForDate;bean_name=pastOrPresentValidatorForDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForJapaneseDate;bean_name=pastOrPresentValidatorForJapaneseDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDateTime;bean_name=pastOrPresentValidatorForLocalDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMinguoDate;bean_name=pastOrPresentValidatorForMinguoDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYear;bean_name=pastOrPresentValidatorForYear</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadableInstant;bean_name=futureOrPresentValidatorForReadableInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForInstant;bean_name=futureOrPresentValidatorForInstant</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalTime;bean_name=futureOrPresentValidatorForLocalTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForJapaneseDate;bean_name=futureOrPresentValidatorForJapaneseDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForHijrahDate;bean_name=futureOrPresentValidatorForHijrahDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.NIPValidator;bean_name=NIPValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForZonedDateTime;bean_name=futureOrPresentValidatorForZonedDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.REGONValidator;bean_name=REGONValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDateTime;bean_name=futureOrPresentValidatorForLocalDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.PESELValidator;bean_name=PESELValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForCalendar;bean_name=futureOrPresentValidatorForCalendar</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMonthDay;bean_name=futureOrPresentValidatorForMonthDay</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMaxValidator;bean_name=durationMaxValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetTime;bean_name=futureOrPresentValidatorForOffsetTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMinValidator;bean_name=durationMinValidator</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForThaiBuddhistDate;bean_name=futureOrPresentValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetDateTime;bean_name=futureOrPresentValidatorForOffsetDateTime</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadablePartial;bean_name=futureOrPresentValidatorForReadablePartial</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDate;bean_name=futureOrPresentValidatorForLocalDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMinguoDate;bean_name=futureOrPresentValidatorForMinguoDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYearMonth;bean_name=futureOrPresentValidatorForYearMonth</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForDate;bean_name=futureOrPresentValidatorForDate</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYear;bean_name=futureOrPresentValidatorForYear</node>
+            <node x="" y="">module=polls;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveOrZeroValidatorForMonetaryAmount;bean_name=positiveOrZeroValidatorForMonetaryAmount</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.DataSourceTransactionManagerConfiguration;bean_name=dataSourceTransactionManagerConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.jdbc.datasource.DataSourceTransactionManager;bean_name=transactionManager</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.handler.HandlerMappingIntrospector;bean_name=mvcHandlerMappingIntrospector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.view.InternalResourceViewResolver;bean_name=defaultViewResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.view.BeanNameViewResolver;bean_name=beanNameViewResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.view.ContentNegotiatingViewResolver;bean_name=viewResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.LocaleResolver;bean_name=localeResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping;bean_name=welcomePageHandlerMapping</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.filter.RequestContextFilter;bean_name=requestContextFilter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.ResourceProperties;bean_name=spring.resources-org.springframework.boot.autoconfigure.web.ResourceProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;bean_name=jpaRepositoriesAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfigureRegistrar;bean_name=jpaRepositoriesAutoConfigureRegistrar</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration;bean_name=springDataWebAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.config.PageableHandlerMethodArgumentResolverCustomizer;bean_name=pageableCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.config.SortHandlerMethodArgumentResolverCustomizer;bean_name=sortCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.config.EnableSpringDataWebSupport.SpringDataWebConfigurationImportSelector;bean_name=springDataWebConfigurationImportSelector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.config.EnableSpringDataWebSupport.QuerydslActivator;bean_name=querydslActivator</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.PageableHandlerMethodArgumentResolver;bean_name=pageableResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.web.SortHandlerMethodArgumentResolver;bean_name=sortResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties;bean_name=spring.data.web-org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.DefaultErrorViewResolverConfiguration;bean_name=defaultErrorViewResolverConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.DefaultErrorViewResolver;bean_name=conventionErrorViewResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration;bean_name=webMvcAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.servlet.filter.OrderedHiddenHttpMethodFilter;bean_name=hiddenHttpMethodFilter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.servlet.filter.OrderedHttpPutFormContentFilter;bean_name=httpPutFormContentFilter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration;bean_name=webSocketServletAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.servlet.error.DefaultErrorAttributes;bean_name=errorAttributes</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController;bean_name=basicErrorController</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.ErrorPageCustomizer;bean_name=errorPageCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.PreserveErrorControllerTargetClassPostProcessor;bean_name=preserveErrorControllerTargetClassPostProcessor</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration;bean_name=jacksonHttpMessageConvertersConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConverters;bean_name=messageConverters</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration;bean_name=XADataSourceAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=javax.sql.DataSource;bean_name=dataSource</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration;bean_name=userDetailsServiceAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.provisioning.InMemoryUserDetailsManager;bean_name=inMemoryUserDetailsManager</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration;bean_name=configurationPropertiesAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.TomcatWebSocketConfiguration;bean_name=tomcatWebSocketConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.TomcatWebSocketServletWebServerCustomizer;bean_name=websocketContainerCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration;bean_name=messageSourceAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.context.MessageSourceProperties;bean_name=messageSourceProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.context.MessageSource;bean_name=messageSource</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration.CglibAutoProxyConfiguration;bean_name=cglibAutoProxyConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.transaction.annotation.TransactionManagementConfigurationSelector;bean_name=transactionManagementConfigurationSelector</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration;bean_name=httpEncodingAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.filter.CharacterEncodingFilter;bean_name=characterEncodingFilter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration.LocaleCharsetMappingsCustomizer;bean_name=localeCharsetMappingsCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.HttpEncodingProperties;bean_name=spring.http.encoding-org.springframework.boot.autoconfigure.http.HttpEncodingProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.aop.AopAutoConfiguration.CglibAutoProxyConfiguration;bean_name=cglibAutoProxyConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.context.annotation.AspectJAutoProxyRegistrar;bean_name=aspectJAutoProxyRegistrar</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;bean_name=securityAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.servlet.SpringBootWebSecurityConfiguration;bean_name=springBootWebSecurityConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.security.servlet.WebSecurityEnablerConfiguration;bean_name=webSecurityEnablerConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.security.authentication.DefaultAuthenticationEventPublisher;bean_name=authenticationEventPublisher</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration;bean_name=whitelabelErrorViewConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.web.servlet.View;bean_name=error</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration;bean_name=embeddedWebServerFactoryCustomizerAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.jmx.export.annotation.AnnotationMBeanExporter;bean_name=mbeanExporter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jmx.ParentAwareNamingStrategy;bean_name=objectNamingStrategy</node>
+            <node x="" y="">module=polls;bean_class=javax.management.MBeanServer;bean_name=mbeanServer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.aop.AopAutoConfiguration;bean_name=aopAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;bean_name=dataSourceAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration;bean_name=dataSourcePoolMetadataProvidersConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializationConfiguration;bean_name=dataSourceInitializationConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker;bean_name=dataSourceInitializerInvoker</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializationConfiguration.Registrar;bean_name=registrar</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.PooledDataSourceConfiguration;bean_name=pooledDataSourceConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.Hikari;bean_name=hikari</node>
+            <node x="" y="">module=polls;bean_class=com.zaxxer.hikari.HikariDataSource;bean_name=dataSource</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration;bean_name=dataSourceJmxConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration;bean_name=codecsAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.JacksonCodecConfiguration;bean_name=jacksonCodecConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.web.codec.CodecCustomizer;bean_name=jacksonCodecCustomizer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration;bean_name=stringHttpMessageConverterConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration;bean_name=propertyPlaceholderAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.context.support.PropertySourcesPlaceholderConfigurer;bean_name=propertySourcesPlaceholderConfigurer</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration;bean_name=jdbcTemplateAutoConfiguration</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.autoconfigure.jdbc.JdbcProperties;bean_name=spring.jdbc-org.springframework.boot.autoconfigure.jdbc.JdbcProperties</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.data.jpa.domain.support.AuditingEntityListener;bean_name=auditingEntityListener</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.core.env.Environment;bean_name=environment</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.core.env.PropertyResolver;bean_name=propertyResolver</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.core.convert.ConversionService;bean_name=conversionService</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.ServletConfig;bean_name=servletConfig</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.ServletContext;bean_name=servletContext</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.http.HttpServletRequest;bean_name=httpServletRequest</node>
+            <node x="" y="">module=polls;bean_class=javax.servlet.http.HttpSession;bean_name=httpSession</node>
+            <node x="" y="">module=polls;bean_class=org.springframework.boot.ApplicationArguments;bean_name=springApplicationArguments</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.09117221418234443" x="2065.0" y="2063.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.2.RELEASE/spring-boot-autoconfigure-2.0.2.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/security/JwtAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/config/AuditingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/PollsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.5.RELEASE/spring-security-config-5.0.5.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.7.RELEASE/spring-data-jpa-2.0.7.RELEASE.jar!/org/springframework/data/jpa/repository/config/EnableJpaAuditing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/java/com/example/polls/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-571">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#1852#1853#0" expanded="true" />
+            <element signature="e#1904#1905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polling-app-server/src/main/resources/default-roles.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/module=polls">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=polls</OriginalElement>
+          <nodes>
+            <node x="0.0" y="180.0">module=polls</node>
+            <node x="143.0" y="150.0">fileset=polls/PollsApplication</node>
+            <node x="347.0" y="180.0">com.example.polls.PollsApplication</node>
+            <node x="559.5" y="240.0">com.example.polls.config.SecurityConfig</node>
+            <node x="762.0" y="270.0">org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity</node>
+            <node x="788.0" y="210.0">org.springframework.security.config.annotation.web.configuration.EnableWebSecurity</node>
+            <node x="570.5" y="180.0">org.springframework.boot.autoconfigure.domain.EntityScan</node>
+            <node x="537.0" y="120.0">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+            <node x="557.5" y="60.0">com.example.polls.config.AuditingConfig</node>
+            <node x="789.5" y="60.0">org.springframework.data.jpa.repository.config.EnableJpaAuditing</node>
+            <node x="557.0" y="0.0">com.example.polls.config.WebMvcConfig</node>
+            <node x="129.0" y="210.0">fileset=polls/PollsApplication MVC</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.SecurityConfig">
+              <point x="55.0" y="2.857142857142861" />
+              <point x="537.0" y="243.33333333333334" />
+              <point x="-50.0" y="-6.666666666666657" />
+            </edge>
+            <edge source="com.example.polls.config.SecurityConfig" target="org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity">
+              <point x="50.0" y="5.0" />
+              <point x="682.0" y="255.0" />
+              <point x="-89.0" y="-0.0" />
+            </edge>
+            <edge source="fileset=polls/PollsApplication MVC" target="com.example.polls.PollsApplication">
+              <point x="69.0" y="-0.0" />
+              <point x="-55.0" y="5.0" />
+            </edge>
+            <edge source="com.example.polls.config.SecurityConfig" target="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity">
+              <point x="50.0" y="-5.0" />
+              <point x="682.0" y="245.0" />
+              <point x="762.0" y="220.0" />
+              <point x="-63.0" y="-0.0" />
+            </edge>
+            <edge source="com.example.polls.config.AuditingConfig" target="org.springframework.data.jpa.repository.config.EnableJpaAuditing">
+              <point x="52.0" y="-0.0" />
+              <point x="-61.5" y="-0.0" />
+            </edge>
+            <edge source="module=polls" target="fileset=polls/PollsApplication MVC">
+              <point x="24.5" y="5.0" />
+              <point x="-69.0" y="-0.0" />
+            </edge>
+            <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.WebMvcConfig">
+              <point x="55.0" y="-8.571428571428584" />
+              <point x="537.0" y="10.0" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="com.example.polls.PollsApplication" target="org.springframework.boot.autoconfigure.SpringBootApplication">
+              <point x="55.0" y="-2.857142857142861" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="fileset=polls/PollsApplication" target="com.example.polls.PollsApplication">
+              <point x="55.0" y="-0.0" />
+              <point x="267.0" y="160.0" />
+              <point x="-55.0" y="-5.0" />
+            </edge>
+            <edge source="com.example.polls.PollsApplication" target="com.example.polls.config.AuditingConfig">
+              <point x="55.0" y="-5.714285714285722" />
+              <point x="537.0" y="70.0" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="module=polls" target="fileset=polls/PollsApplication">
+              <point x="24.5" y="-5.0" />
+              <point x="129.0" y="160.0" />
+              <point x="-55.0" y="-0.0" />
+            </edge>
+            <edge source="com.example.polls.PollsApplication" target="org.springframework.boot.autoconfigure.domain.EntityScan">
+              <point x="55.0" y="-0.0" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.93125" x="470.0" y="283.55704697986573" />
+          <SelectedNodes>
+            <node>com.example.polls.config.SecurityConfig</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|polls</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
